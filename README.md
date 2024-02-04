@@ -21,7 +21,7 @@ I've refactored the HTML and CSS to reflect these requirements. I've commited my
 the site can be accessed on git pages at https://sridharaniruddha.github.io/horiseon-code-refactor/
 
 
-
+I've attached a screenshot of the site below.
 
 ![c1_1](https://github.com/sridharaniruddha/horiseon-code-refactor/assets/152184230/690fb2b5-511b-40e2-8a31-b794b2e75a5c)
 
