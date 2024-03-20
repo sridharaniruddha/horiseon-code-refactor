@@ -20,8 +20,8 @@ As a marketing agency, I want a codebase that follows accessibility standards SO
 ## Usage
 I've refactored the HTML and CSS to reflect these requirements. I've committed my changes and pushed them to Git Hub and deployed Git pages.
 
-The site can be accessed on git pages at https://sridharaniruddha.github.io/horiseon-code-refactor/
 
+The site can be accessed on git pages at https://sridharaniruddha.github.io/horiseon-code-refactor/
 
 I've attached a screenshot of the site below.
 
@@ -30,3 +30,4 @@ I've attached a screenshot of the site below.
 
 ## Credits
 Learning materials and source code from edX.
+
