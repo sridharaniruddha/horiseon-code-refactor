@@ -20,9 +20,18 @@ Title elements contain a concise, descriptive title
 I've refactored the HTML and CSS to reflect these requirements. I've commited my changes and pushed to github and deployed git pages.
 the site can be accessed on git pages at https://sridharaniruddha.github.io/horiseon-code-refactor/
 
-Screenshot of site is attached below.
 
+Screenshot of site is attached below.
+=======
+
+The site can be accessed on git pages at https://sridharaniruddha.github.io/horiseon-code-refactor/
 
 
 
 ![alt text](c1_1.png)
+
+
+## Credits
+Learning materials and source code from edX.
+
+
