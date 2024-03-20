@@ -22,9 +22,6 @@ Title elements contain a concise, descriptive title
 I've refactored the HTML and CSS to reflect these requirements. I've committed my changes and pushed to GitHub and deployed the link.
 The site can be accessed on git pages at https://sridharaniruddha.github.io/horiseon-code-refactor/
 
-The site can be accessed on git pages at https://sridharaniruddha.github.io/horiseon-code-refactor/
-
-
 
 ![alt text](c1_1.png)
 
