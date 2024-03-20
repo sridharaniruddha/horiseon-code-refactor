@@ -4,7 +4,7 @@
 As a marketing agency, I want a codebase that follows accessibility standards so that our own site is optimized for search engines.
 
 ## Acceptance Criteria
-  - My task is completed when my website meets the following standards:
+My task is completed when my website meets the following standards:
 
   - Semantic HTML elements can be found throughout the source code
 
