@@ -15,8 +15,12 @@ Heading attributes fall in sequential order
 Title elements contain a concise, descriptive title
 
 
-
 I've refactored the HTML and CSS to reflect these requirements. I've commited my changes and pushed to github and deployed git pages.
+the site can be accessed on git pages at https://sridharaniruddha.github.io/horiseon-code-refactor/
+
+Screenshot of site is attached below.
 
 
 
+
+![alt text](c1_1.png)
